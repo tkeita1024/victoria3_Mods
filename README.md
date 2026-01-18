@@ -1,0 +1,2 @@
+# victoria3_Mods
+個人で使用するvictoria3のModを翻訳などしたりしたリポジトリ
