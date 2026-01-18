@@ -1,4 +1,4 @@
-l_japanese:
+﻿l_japanese:
 #
  goods_input_services_add: "@services! サービス投入"
  goods_input_services_add_desc: "建物によって消費される@services! サービスの量"
